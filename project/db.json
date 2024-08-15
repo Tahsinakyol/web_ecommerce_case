@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "lorem Ipsum Dolar Sit 1",
+      "price": 100,
+      "category": "Elektronik",
+      "image": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU"
+    },
+    {
+      "id": 2,
+      "name": "lorem Ipsum Dolar Sit 2",
+      "price": 200,
+      "category": "Moda",
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s"
+    },
+    {
+      "id": 3,
+      "name": "lorem Ipsum Dolar Sit 3",
+      "price": 100,
+      "category": "Elektronik",
+      "image": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU"
+    },
+    {
+      "id": 4,
+      "name": "lorem Ipsum Dolar Sit 4",
+      "price": 200,
+      "category": "Moda",
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s"
+    },
+    {
+      "id": 5,
+      "name": "lorem Ipsum Dolar Sit 5",
+      "price": 100,
+      "category": "Elektronik",
+      "image": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU"
+    },
+    {
+      "id": 6,
+      "name": "lorem Ipsum Dolar Sit 6",
+      "price": 200,
+      "category": "Moda",
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s"
+    },
+    {
+      "id": 7,
+      "name": "lorem Ipsum Dolar Sit 7",
+      "price": 100,
+      "category": "Elektronik",
+      "image": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU"
+    },
+    {
+      "id": 8,
+      "name": "lorem Ipsum Dolar Sit 8",
+      "price": 501,
+      "category": "Moda",
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s"
+    }
+  ]
+}
